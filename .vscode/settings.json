@@ -1,0 +1,9 @@
+{
+	"files.exclude": {
+		"D:/DDownload/cs1c/BuildingEscape/.vscode": true,
+		"D:/DDownload/cs1c/BuildingEscape/Content": true,
+		"D:/DDownload/cs1c/BuildingEscape/Intermediate": true,
+		"D:/DDownload/cs1c/BuildingEscape/Saved": true
+	},
+	"C_Cpp.errorSquiggles": "Disabled"
+}
